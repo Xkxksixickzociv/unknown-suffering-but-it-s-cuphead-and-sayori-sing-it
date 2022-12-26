@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bigmonika.png">
+<SubTexture name="Big Monika Idle0000" x="1141" y="0" width="1141" height="1014" frameX="0" frameY="-3" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0001" x="1141" y="0" width="1141" height="1014" frameX="0" frameY="-3" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0002" x="0" y="1015" width="1141" height="1011" frameX="0" frameY="-6" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0003" x="2282" y="1005" width="1141" height="1004" frameX="0" frameY="-13" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0004" x="2282" y="1005" width="1141" height="1004" frameX="0" frameY="-13" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0005" x="2282" y="0" width="1141" height="1005" frameX="0" frameY="-12" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0006" x="2282" y="0" width="1141" height="1005" frameX="0" frameY="-12" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0007" x="2282" y="0" width="1141" height="1005" frameX="0" frameY="-12" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0008" x="2282" y="0" width="1141" height="1005" frameX="0" frameY="-12" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0009" x="1141" y="1015" width="1141" height="1006" frameX="0" frameY="-11" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0010" x="0" y="0" width="1141" height="1015" frameX="0" frameY="-2" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0011" x="0" y="0" width="1141" height="1015" frameX="0" frameY="-2" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0012" x="1141" y="0" width="1141" height="1014" frameX="0" frameY="-2" frameWidth="1142" frameHeight="1017" />
+<SubTexture name="Big Monika Idle0013" x="1141" y="0" width="1141" height="1014" frameX="0" frameY="-2" frameWidth="1142" frameHeight="1017" />
+</TextureAtlas>
